@@ -24,4 +24,4 @@ CUDA_VISIBLE_DEVICES=0 python3 main.py --optim VTTCG --lr 0.001 --total_epoch 10
 
 
 ### Running time
-On a single GeForce GTX 1070 GPU, training a ResNet typically takes 2~3 hours, and training WideResNet usually takes 4~5 hours
+On a single GeForce GTX 1070 GPU, training a ResNet typically takes about 3 hours, and training WideResNet usually takes about 5 hours
